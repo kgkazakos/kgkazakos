@@ -12,9 +12,8 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 
 | Project | What it does | Status |
 |---|---|---|
-| [CausalTrack](https://github.com/kgkazakos/causaltrack) | Multimodal Say-Do Gap detection · Gemini + Neo4j · 611-node knowledge graph | CHI 2027 |
-| [Synthetic User Council](https://github.com/kgkazakos/synthetic-user-council) | Agent-led ecosystem simulation for pre-deployment product research | CHI 2027 |
-| [transcript-cleaner](https://github.com/kgkazakos/transcript-cleaner) | Fix messy interview transcripts · rule-based + model-agnostic LLM | Live |
+| [CausalTrack](https://github.com/kgkazakos/causaltrack) | Multimodal Say-Do Gap detection · Gemini + Neo4j · 611-node knowledge graph | Live |
+| [Synthetic User Council](https://github.com/kgkazakos/synthetic-user-council) | Agent-led ecosystem simulation for pre-deployment product research | Live |
 
 **40 orbital tools** shipping every Friday through Dec 2026 · [full roadmap →](https://kgkazakos.github.io)
 
@@ -22,7 +21,7 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 
 ### Stack
 
-`Python` `LangChain` `DSPy` `LangGraph` `Neo4j` `Streamlit` `Gemini` `Claude` `OpenAI` `pytest` `GitHub Actions`
+`Python` `LangChain` `DSPy` `LangGraph` `Neo4j` `Streamlit` `Gemini` `Claude` `OpenAI` `pytest` `GitHub Actions` `Pandas` `NetworkX` `Click`  
 
 ---
 
