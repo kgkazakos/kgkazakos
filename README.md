@@ -16,7 +16,7 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 | [Synthetic User Council](https://github.com/kgkazakos/synthetic-user-council) | Agent-led ecosystem simulation for pre-deployment product research | Live |
 | [Agentic Payment Trust Mapping](https://github.com/kgkazakos/trust-line) | Maps the Trust Line for agentic payment feature decisions | Live |
 
-**40 orbital tools** shipping every Friday through Dec 2026 · [full roadmap →](https://kgkazakos.github.io)
+**40 orbital tools** shipping almost daily through H1 2026 · [full roadmap →](https://kgkazakos.github.io)
 
 ---
 
