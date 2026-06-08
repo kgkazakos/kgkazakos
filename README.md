@@ -15,6 +15,7 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 | [CausalTrack](https://github.com/kgkazakos/causaltrack) | Multimodal Say-Do Gap detection · Gemini + Neo4j · 611-node knowledge graph | Live |
 | [Synthetic User Council](https://github.com/kgkazakos/synthetic-user-council) | Agent-led ecosystem simulation for pre-deployment product research | Live |
 | [Agentic Payment Trust Mapping](https://github.com/kgkazakos/trust-line) | Maps the Trust Line for agentic payment feature decisions | Live |
+| [Cognitive Load Monitor](https://github.com/kgkazakos/clm) | Measures cognitive load from interaction telemetry and interprets the source using a CLT-grounded AI agent | Live |
 
 **40 orbital tools** shipping almost daily through H1 2026 · [full roadmap →](https://kgkazakos.github.io)
 
