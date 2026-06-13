@@ -16,7 +16,9 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 | [Synthetic User Council](https://github.com/kgkazakos/synthetic-user-council) | Agent-led ecosystem simulation for pre-deployment product research | Live |
 | [Agentic Payment Trust Mapping](https://github.com/kgkazakos/trust-line) | Maps the Trust Line for agentic payment feature decisions | Live |
 | [Cognitive Load Monitor](https://github.com/kgkazakos/clm) | Measures cognitive load from interaction telemetry and interprets the source using a CLT-grounded AI agent | Live |
-| [Research Conductor](https://github.com/kgkazakos/research-conductor-public) | AI agent that conducts user research studies autonomously, with static config-driven gates defining when human oversight is required. | In progress |
+| [Research Conductor](https://github.com/kgkazakos/research-conductor-public) | AI agent that conducts user research studies autonomously, with static config-driven gates defining when human oversight is required. | Live |
+| [Parallax](https://github.com/kgkazakos/parallax-public) | Spatial research canvas that compares reasoning models against standard LLMs for critiquing qualitative clustering, making the AI's chain-of-thought visible to researchers so they can see why the AI disagrees — not just that it does. | In progress |
+
 
 
 **40 orbital tools** shipping almost daily through H1 2026 · [full roadmap →](https://kgkazakos.github.io)
