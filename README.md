@@ -35,6 +35,3 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 
 Currently writing **The AI-Native Product Researcher: Scaling Empathy and Rigor** — a book on the transition from episodic insights to continuous intelligence.
 
----
-
-<sub>Lead Researcher · ex-Google L6 (Transformative Impact) · Atlassian · PhD HCI University of Melbourne</sub>
