@@ -19,6 +19,7 @@ CPR is the bridge from static insight to agentic intelligence. I architect open-
 | [Research Conductor](https://github.com/kgkazakos/research-conductor-public) | AI agent that conducts user research studies autonomously, with static config-driven gates defining when human oversight is required. | Live |
 | [Parallax](https://github.com/kgkazakos/parallax-public) | Spatial research canvas that compares reasoning models against standard LLMs for critiquing qualitative clustering, making the AI's chain-of-thought visible to researchers so they can see why the AI disagrees — not just that it does. | Live |
 | [Ethos](https://github.com/kgkazakos/ethos-public) | Encoding research methodology as alignment principles for autonomous research agents. | Live |
+| [UXR Arena](https://github.com/kgkazakos/uxr-arena-public) | Benchmarks AI tools on 10 standardised UX research tasks, scoring against Ethos's constitutional principles with dual evaluation — automated compliance and expert pairwise ranking. | In Progress |
 
 
 
